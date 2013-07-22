@@ -41,3 +41,4 @@ dropbox-*.tgz
 test/token
 test/ssl
 
+config.bat
